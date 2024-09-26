@@ -1,0 +1,15 @@
+C:\Users\bafc13\source\repos\2048remake\bin\Debug\2048remake.exe.config
+C:\Users\bafc13\source\repos\2048remake\bin\Debug\2048remake.exe
+C:\Users\bafc13\source\repos\2048remake\bin\Debug\2048remake.pdb
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.csproj.AssemblyReference.cache
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\MainWindow.g.cs
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\App.g.cs
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake_MarkupCompile.cache
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake_MarkupCompile.lref
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\MainWindow.baml
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.g.resources
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\_2048remake.Properties.Resources.resources
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.csproj.GenerateResource.cache
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.csproj.CoreCompileInputs.cache
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.exe
+C:\Users\bafc13\source\repos\2048remake\obj\Debug\2048remake.pdb

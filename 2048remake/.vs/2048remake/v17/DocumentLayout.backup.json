@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bafc13\\source\\repos\\2048remake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|c:\\users\\bafc13\\source\\repos\\2048remake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|c:\\users\\bafc13\\source\\repos\\2048remake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|c:\\users\\bafc13\\source\\repos\\2048remake\\2048viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DE6B41-0A27-4E0B-96B6-FC86858C1C4E}|2048remake.csproj|solutionrelative:2048viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2048ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\2048remake\\2048ViewModel.cs",
+              "RelativeDocumentMoniker": "2048ViewModel.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\2048remake\\2048ViewModel.cs",
+              "RelativeToolTip": "2048ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:41:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\2048remake\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\2048remake\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:40:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\2048remake\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\2048remake\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T08:40:53.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
