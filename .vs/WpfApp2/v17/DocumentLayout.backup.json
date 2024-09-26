@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|c:\\users\\bafc13\\source\\repos\\wpfapp2\\contentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:contentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:signinwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|C:\\Users\\bafc13\\source\\repos\\WpfApp2\\signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA45894A-82F0-4432-8436-99278BE82C40}|WpfApp2.csproj|solutionrelative:signinwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\ContentWindow.xaml",
+              "RelativeDocumentMoniker": "ContentWindow.xaml",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\ContentWindow.xaml",
+              "RelativeToolTip": "ContentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T16:28:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T15:43:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:44:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:38:15.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:26:55.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T17:29:01.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-23T09:50:51.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignInWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\SignInWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SignInWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\SignInWindow.xaml.cs",
+              "RelativeToolTip": "SignInWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:19:50.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignInWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\SignInWindow.xaml",
+              "RelativeDocumentMoniker": "SignInWindow.xaml",
+              "ToolTip": "C:\\Users\\bafc13\\source\\repos\\WpfApp2\\SignInWindow.xaml",
+              "RelativeToolTip": "SignInWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-22T14:19:04.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

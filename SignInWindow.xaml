@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfApp2.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="User Interface App" Height="600" Width="800">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="Visibility" Value="Visible"/>
+        </Style>
+        <Style TargetType="PasswordBox">
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="Visibility" Value="Visible"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="23"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="23"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="Aqua">
+        <Border MinWidth="400" Margin="15" Background="WhiteSmoke" 
+            VerticalAlignment="Center" Padding="20" MaxWidth="550" 
+            CornerRadius="12">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="20" Color="Red" 
+                              ShadowDepth="6"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Sign in, cowboy" Margin="0 0 0 0" />
+                <Grid Margin="0 0 0 10" >
+                    <Button HorizontalAlignment="Right" 
+                        Content="sign up" Click="Button_SignUp_Click"/>
+                </Grid>
+                <TextBox x:Name="TBlogin">
+                    <TextBox.ToolTip>Put login</TextBox.ToolTip>
+                </TextBox>
+                <PasswordBox x:Name="PBpassword">
+                    <PasswordBox.ToolTip>Put in password</PasswordBox.ToolTip>
+                </PasswordBox>
+                <Button Content="Login" Margin="0 10" 
+                        IsDefault="True"  Click="Button_Login_Click" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
